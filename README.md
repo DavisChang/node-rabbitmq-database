@@ -2,6 +2,9 @@
 
 This project demonstrates an event-driven architecture using Node.js, Express, TypeScript, MySQL, MongoDB, and RabbitMQ. The architecture is split into two services: one for handling CRUD operations on products and another for consuming RabbitMQ messages to update MongoDB.
 
+
+![Event-Driven Architecture](assets/EDA.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
